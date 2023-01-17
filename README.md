@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey I'm Vytenis
+Currently working at Zyro as Frontend developer & Team lead
