@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey I'm Vytenis
-Currently working at Zyro as Frontend developer & Team lead
+- Hey I'm Vytenis
+- Currently working at Zyro as Frontend developer & Team lead
