@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 - Hey I'm Vytenis
-- Currently working at Zyro as Frontend developer & Team lead
+- Currently working at Zyro (Hostinger website builder) as Frontend developer & Team lead
