@@ -7,4 +7,9 @@
 
 - Hey I'm Vytenis
 - Currently working at Hostinger website builder as Frontend developer & Team lead
-- You can find what I'm reading here: [vytenissidabras.com](https://vytenissidabras.com)
+
+### [vytenissidabras.com](https://vytenissidabras.com)
+- You can find what I'm reading here.
+
+### [n-2.lt](https://n-2.lt)
+- Small project that's still growing. Created website for them. Svelte kit, Tailwind, Sanity CMS.
