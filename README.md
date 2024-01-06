@@ -8,8 +8,8 @@
 - Hey I'm Vytenis
 - Currently working at Hostinger website builder as Frontend developer & Team lead
 
-### <a href="https://vytenissidabras.com" target="_blank">vytenissidabras.com</a>
+### [vytenissidabras.com](https://vytenissidabras.com)
 - You can find what I'm reading here.
 
-### <a href="https://n-2.lt" target="_blank">n-2.lt</a>
+### [n-2.lt](https://n-2.lt)
 - Small project that's still growing. Created website for them. Svelte kit, Tailwind, Sanity CMS.
