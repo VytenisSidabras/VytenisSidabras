@@ -6,7 +6,7 @@
 
 
 - Hey I'm Vytenis
-- Currently working at Hostinger website builder as Frontend developer & Team lead
+- Currently working at Vinted as Web Engineer focusing on payments.
 
 ### [vytenissidabras.com](https://vytenissidabras.com)
 - You can find what I'm reading here.
