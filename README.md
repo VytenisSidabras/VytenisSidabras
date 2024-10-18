@@ -12,4 +12,4 @@
 - You can find what I'm reading here.
 
 ### [n-2.lt](https://n-2.lt)
-- Small project that's still growing. Created website for them. Svelte kit, Tailwind, Sanity CMS.
+- Created website for small education project. Svelte kit, Tailwind, Sanity CMS.
