@@ -14,5 +14,8 @@
 ### [lemezytephoto.com](https://lemezytephoto.com)
 - Portfolio page for my other side.
 
+### [piratoos.com](https://piratoos.com)
+- Landing page for upcoming game release by Lithuanian game studio [jollybits.games](https://jollybits.games/)
+
 ### [n-2.lt](https://n-2.lt)
 - Helping out with website for small education project. Svelte kit, Tailwind, Sanity CMS.
