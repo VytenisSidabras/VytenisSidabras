@@ -6,13 +6,13 @@
 
 
 - Hey I'm Vytenis
-- Currently working at Vinted as Web Engineer focusing on payments.
+- Currently working at Vinted as Engineer Team Lead for payments team that's responsible for customers payments accounts.
 
 ### [vytenissidabras.com](https://vytenissidabras.com)
 - You can find what I'm reading here.
 
 ### [lemezytephoto.com](https://lemezytephoto.com)
-- Photographer's portfolio website.
+- Portfolio page for my other side.
 
 ### [n-2.lt](https://n-2.lt)
-- Created website for small education project. Svelte kit, Tailwind, Sanity CMS.
+- Helping out with website for small education project. Svelte kit, Tailwind, Sanity CMS.
