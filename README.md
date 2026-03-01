@@ -1,12 +1,16 @@
+# Hey I'm Vytenis
+- Currently working at Vinted as Engineer Team Lead for payments team that's responsible for:
+  - User payment accounts lifecycle
+  - KYC, KYB and other identity verification processes
+  - User migrations between different payment service providers
+ 
+### [vietu.lt](https://vietu.lt)
+- Side project for finding your next home (Lithuania only for now).
+  - Scaping all apartment, house, land listings for different portals.
+  - Showing listings in interactive square meter price heatmap.
 
-<!-- <a href="https://github.com/VytenisSidabras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VytenisSidabras&count_private=true&show_icons=true&theme=radical&hide=stars,prs" />
-</a>
- -->
-
-
-- Hey I'm Vytenis
-- Currently working at Vinted as Engineer Team Lead for payments team that's responsible for customers payments accounts.
+### [vytenissidabras.com](https://vytenissidabras.com)
+- You can find what I'm reading here.
 
 ### [vytenissidabras.com](https://vytenissidabras.com)
 - You can find what I'm reading here.
