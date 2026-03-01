@@ -12,9 +12,6 @@
 ### [vytenissidabras.com](https://vytenissidabras.com)
 - You can find what I'm reading here.
 
-### [vytenissidabras.com](https://vytenissidabras.com)
-- You can find what I'm reading here.
-
 ### [lemezytephoto.com](https://lemezytephoto.com)
 - Portfolio page for my other side.
 
