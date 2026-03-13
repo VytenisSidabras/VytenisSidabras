@@ -1,5 +1,5 @@
 # Hey I'm Vytenis
-- Currently working at Vinted as Engineer Team Lead for payments team that's responsible for:
+- Currently working at Vinted as Engineer Manager for payments team that's responsible for:
   - User payment accounts lifecycle
   - KYC, KYB and other identity verification processes
   - User migrations between different payment service providers
